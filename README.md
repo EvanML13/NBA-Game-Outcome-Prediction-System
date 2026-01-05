@@ -7,5 +7,5 @@ The model evaluates to an approximate 64% accuracy in predicting the winner of a
 
 This project was completed in Jupyter Notebook and uploaded to GitHub.
 
-December 10th, 2025
-Evan Leonard 
+- December 10th, 2025
+- Evan Leonard 
